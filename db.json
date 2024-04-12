@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "price": 1,
+      "desc": "John Smith is the author of the book "
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "price": 1,
+      "desc": "John Smith is the author of the book "
+    },
+    {
+      "id": 3,
+      "name": "John Smith",
+      "price": 1,
+      "desc": "John Smith is the author of the book "
+    }
+  ],
+  "users": []
+}
